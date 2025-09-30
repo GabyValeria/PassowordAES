@@ -67,5 +67,5 @@ Criptografia reversível só deve ser usada quando **você precisa recuperar o v
 
 ## ✍️ Autora
 
-Desenvolvido por Gaby Valéria.  
+Desenvolvido com ❤️ por Gabrielle Valéria.  
 Sinta-se à vontade para usar, adaptar e contribuir!
